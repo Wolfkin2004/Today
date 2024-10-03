@@ -1,0 +1,44 @@
+body {
+  background-image: url(https://gradients.mijo-design.com/public/uploads/files/z13.png);
+}
+
+h1 {
+  background-color: rgb(61, 255, 174);
+  border-color: rgb(0, 0, 0);
+  border-style: double;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  background-color: rgb(109, 255, 255);
+  border-color: rgb(0, 0, 0);
+  border-style: double;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    background-color: rgb(255, 0, 0);
+    border-color: rgb(0, 0, 0);
+    border-style: double;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+main {
+  background-color: rgb(136, 255, 255);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: double;
+  font-weight: bold;
+}
+
+a:link,
+a:visited {
+  color: rgb(47, 0, 255);
+}
+a:hover,
+a:active {
+  color: rgb(255, 0, 0);
+  font-size: large;
+  font-style: italic;
+}
